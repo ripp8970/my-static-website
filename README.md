@@ -1,6 +1,3 @@
-Sure! Here’s a README template you can use for your GitHub repository. This template provides an overview of your project, instructions for setup, and other relevant information.
-
-```markdown
 # My Static Website
 
 This is a simple static website hosted on GitHub Pages. It serves as a demonstration of how to deploy a basic HTML site using GitHub's hosting service.
